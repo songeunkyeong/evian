@@ -92,7 +92,8 @@ body{
 }
 /*29.세번째 메뉴의 배경이미지*/
 section#mineral{
-    background: url(../img/menu3_bg.jpg) center /cover;
+    /*background: url(../img/menu3_bg.jpg) center /cover;*/
+    background-color: aqua;
     background-attachment: fixed;
 }
 /*31.scrollspy를 위한 설정*/
